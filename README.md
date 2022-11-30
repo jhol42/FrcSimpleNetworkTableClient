@@ -7,13 +7,13 @@ https://github.com/microsoft/vcpkg
 ```
 git clone https://github.com/microsoft/vcpkg.git
 cd vcpkg
-.\vcpkg\bootstrap-vcpkg.bat
+.\bootstrap-vcpkg.bat
 ```
 
 Integrate vcpgk with Visual Studio.  
 From an administrator shell.
 ```
-.\vcpkg\vcpkg integrate install
+.\vcpkg integrate install
 ```
 
 Install wpilib
