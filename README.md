@@ -17,4 +17,6 @@ From an administrator shell.
 ```
 
 Install wpilib
+``` PowerShell
 .\vcpkg.exe install wpilib
+```
